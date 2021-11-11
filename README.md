@@ -9,7 +9,6 @@ This project is my attempt at making a to-do list app using HTML, CSS, and JavaS
   - Description  
   - Due Date  
   - Done  
-  - Tags  
 - Each task is stored in a taskList array and saved to local storage  
 - Each task is displayed on the frontend as a separate card  
 - There is a form which creates new tasks and transforms to show additional form elements on focus  
